@@ -1,0 +1,7 @@
+git:
+  url: git@gitlab.com:Natrofl/microservices-demo.git
+  path: deploy
+  ciSkip: true  
+  pollInterval: 2m
+registry:
+  automationInterval: 2m
